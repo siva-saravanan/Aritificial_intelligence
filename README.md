@@ -1,0 +1,2 @@
+# Aritificial_intelligence
+Assignment submission
